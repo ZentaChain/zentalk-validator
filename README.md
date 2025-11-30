@@ -1,6 +1,6 @@
 # Zentalk Validator
 
-Run a **Zentalk Relay Node** and earn **CHAIN tokens** by sharing your server resources. Join the decentralized messaging network and help relay messages while earning rewards.
+Run a **validator node** on the **ZentaMesh network** to contribute storage, secure the network, and earn **CHAIN tokens**.
 
 ## Quick Start
 
